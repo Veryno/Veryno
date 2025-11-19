@@ -1,4 +1,3 @@
-## 🔥 About Me  
 Software engineer who ships. I’ve built production systems across construction tech, IoT automation, and blockchain — everything from React frontends to Node.js backends, real-time dashboards, smart contracts, and ML-powered tools. I focus on solving real operational problems, tightening workflows, and delivering features that actually move numbers.
 
 ## 🌐 Socials  
