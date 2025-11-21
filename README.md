@@ -1,8 +1,5 @@
 Software engineer who ships. I’ve built production systems across construction tech, IoT automation, and blockchain. Everything from React frontends to Node.js backends, real-time dashboards, smart contracts, and ML-powered tools. I focus on solving real operational problems, tightening workflows, and delivering features that actually move numbers.
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yaacobabdullah)
-
 ## 💻 Tech Stack  
 
 ### **Languages**
