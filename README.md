@@ -1,4 +1,4 @@
-Software engineer who ships. I’ve built production systems across construction tech, IoT automation, and blockchain. Everything from React frontends to Node.js backends, real-time dashboards, smart contracts, and ML-powered tools. I focus on solving real operational problems, tightening workflows, and delivering features that actually move numbers.
+New-grad software engineer with real production experience across construction tech, IoT automation, and blockchain. I've built React frontends, Node.js backends, real-time dashboards, smart contracts, and a few ML-powered tools along the way.
 
 ## 💻 Tech Stack  
 
