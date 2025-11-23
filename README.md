@@ -1,4 +1,4 @@
-New-grad software engineer with real production experience across construction tech, IoT automation, and blockchain. I've built React frontends, Node.js backends, real-time dashboards, smart contracts, and a few ML-powered tools along the way.
+Software engineer with real production experience across construction tech, IoT automation, and blockchain. I've built React frontends, Node.js backends, real-time dashboards, smart contracts, and a few ML-powered tools along the way. 
 
 ## 💻 Tech Stack  
 
